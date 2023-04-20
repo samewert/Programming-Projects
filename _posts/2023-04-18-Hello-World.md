@@ -1,0 +1,6 @@
+---
+title: "Hello World"
+date: 2023-04-18
+---
+
+Is this how pages work? Should I use them for displaying my code??
