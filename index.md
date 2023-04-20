@@ -22,9 +22,9 @@ Space between
 lines with 2 or more spaces<br>
 or use br with <> around it
 
-** Bold Text **
+**Bold Text**
 
-* Italics *
+*Italics*
 Fuuuuuun
 
 ***
@@ -33,7 +33,7 @@ Fuuuuuun
   x = 2
   print(x)
 
-*** Bold and italics ***
+***Bold and italics***
 
 ___________________________
 
@@ -41,9 +41,9 @@ https://www.markdownguide.org/basic-syntax/
 
 1. Item 1
 2. Item 2
-    public static codeBlock{
-      print(x)
-    }
+      public static codeBlock{
+        print(x)
+      }
 4. Item 3
    1. Item 3a
 
